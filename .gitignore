@@ -1,0 +1,11 @@
+# Word docs (keep markdown versions)
+*.docx
+*.doc
+*.docm
+*.dotx
+*.dotm
+*.odt
+*.rtf
+
+# Word temp/lock files
+~$*
